@@ -1,8 +1,8 @@
-# ibento-api('eventful'): Event Management System
+# ibento ('eventful'): Event Management System
 
 ## Overview
 
-ibento-api is the REST API server for ibento, a comprehensive event management system that enables event creators to organize events and manage attendees. It offers features like QR code generation for event verification, social media shareability, notifications, and detailed analytics. This project is built using NestJS, Drizzle, and Resend, with a focus on scalability, performance, and best practices.
+ibento is a comprehensive event management system that enables event creators to organize events and manage attendees. It offers features like QR code generation for event verification, social media shareability, notifications, and detailed analytics. This project is built using Nextjs.
 
 ## Table of Contents
 
